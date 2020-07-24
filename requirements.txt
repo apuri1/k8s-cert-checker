@@ -1,0 +1,5 @@
+kubernetes==10.1.0
+pyOpenSSL==19.1.0
+prometheus-client==0.7.1
+Flask==1.1.1
+gunicorn==20.0.4
