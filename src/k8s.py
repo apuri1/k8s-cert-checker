@@ -161,4 +161,4 @@ class QueryK8s(Thread):
             return -1
 
         return 0
-        return 0
+        
